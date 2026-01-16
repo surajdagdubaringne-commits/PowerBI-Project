@@ -53,6 +53,6 @@ My goal is to work as a Data Analyst where I can use data to generate actionable
 
 
 
-📁 **GitHub Profile:** *(https://github.com/surajdagdubaringne)
+📁 **GitHub Profile:** *(https://github.com/ringne-suraj/)
 
 
