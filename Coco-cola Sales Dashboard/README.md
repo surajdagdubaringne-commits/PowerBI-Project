@@ -27,4 +27,4 @@ Enhanced skills in Power BI modeling, visualization, and business insight genera
 
 **Author:** Suraj Ringne  
 Data Analyst | Power BI • Excel • SQL • Tableau • Python (Learning)
-
+https://1drv.ms/i/c/a85bae39582545b7/IQCRethpZ7DnQ6Cg0gc-lcblAdcOf7xoaB5u6OWJ94CqgGE?e=AE1p88
