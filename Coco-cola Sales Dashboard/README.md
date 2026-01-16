@@ -27,5 +27,6 @@ Enhanced skills in Power BI modeling, visualization, and business insight genera
 
 **Author:** Suraj Ringne  
 Data Analyst | Power BI • Excel • SQL • Tableau • Python (Learning)
-![Uploading coco cola scr.png…]()
+<img width="1312" height="733" alt="coco cola scr" src="https://github.com/user-attachments/assets/421f2803-b21c-478f-8822-b60a6b97e29c" />
+
 
