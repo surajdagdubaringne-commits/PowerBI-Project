@@ -50,6 +50,9 @@ My goal is to work as a Data Analyst where I can use data to generate actionable
 
 
 📫 **Connect with me on LinkedIn:** : (https://www.linkedin.com/in/suraj-ringne-b9b518267)
+
+
+
 📁 **GitHub Profile:** *(https://github.com/surajdagdubaringne)
 
 
